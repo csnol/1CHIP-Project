@@ -1,6 +1,6 @@
 # Supported and tested Atmel MCU:
 
-## A.  Use MiniCore by Hans from https://github.com/MCUdude/MiniCore
+### A.  Use MiniCore by Hans from https://github.com/MCUdude/MiniCore
 
     1.   Atmega 48 / 48V
     2.   Atmega 8 / 8V
@@ -8,21 +8,21 @@
     4.   Atmega 168
     5.   Atmega 328
     
-## B.  Use MegaCore by Hans from https://github.com/MCUdude/MegaCore
+### B.  Use MegaCore by Hans from https://github.com/MCUdude/MegaCore
 
     1.   Atmega 64
     2.   Atmega 128
     
-## C.  Use MightyCore by Hans from https://github.com/MCUdude/MightyCore
+### C.  Use MightyCore by Hans from https://github.com/MCUdude/MightyCore
 
     1.   Atmega 16
     2.   Atmega 32
     
-## D.  Use MicroCore by Hans from https://github.com/MCUdude/MicroCore
+### D.  Use MicroCore by Hans from https://github.com/MCUdude/MicroCore
 
     1.   Attiny13
 
-## E.  Use ATTinyCore by SpenceKonde from https://github.com/SpenceKonde/ATTinyCore    (Limited support)
+### E.  Use ATTinyCore by SpenceKonde from https://github.com/SpenceKonde/ATTinyCore    (Limited support)
 
     1.   Attiny24
     2.   Attiny2313

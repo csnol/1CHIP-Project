@@ -2,10 +2,10 @@
 
 ### LOGO
 
-<img scr="./images/1CHIP-LOGO.jpg" width="360">
+<img src="./images/1CHIP-LOGO.jpg" width="360">  
 
 ---
-<img scr="./images/1chip-logo1.jpg" width="360">
+<img src="./images/1chip-logo1.jpg" width="360">  
 
 ---
 # Supported and tested Atmel MCU:

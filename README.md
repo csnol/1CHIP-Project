@@ -1,3 +1,13 @@
+# About 1CHIP Project
+
+### LOGO
+
+<img scr="./images/1CHIP-LOGO.jpg" width="360">
+
+---
+<img scr="./images/1chip-logo1.jpg" width="360">
+
+---
 # Supported and tested Atmel MCU:
 
 ### A.  Use MiniCore by Hans from https://github.com/MCUdude/MiniCore
@@ -27,3 +37,15 @@
     1.   Attiny24
     2.   Attiny2313
     3.   Attiny261
+
+# Supported and tested STM32 MCU:
+
+### A.  STM32F030F4  
+    
+### B.  STM32F030K6
+    
+### C.  STM32F103C, STM32F103R, STM32F103V
+    
+### D.  STM32F107V
+
+### E.  STM32F407V

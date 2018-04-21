@@ -1,5 +1,6 @@
 
-## Project 1: Solar tracker Pad
+## 1CHIP Project 1: Solar tracker Pad  (STM32F030F4P6)
+
 <img src="./images/STM32F030_Solar_Pad.jpg" width="720">  
 
 ----
@@ -7,6 +8,14 @@ Todo: 1. Indoor Localization System with BLE
 
 ----
 
+## Project 2: Electric window curtains  (Attiny13A)
+
+<img src="./images/Attiny13_Ele-curtains.jpg" width="720">  
+
+----
+Todo: 1. Controled by BLE
+
+----
 
 # About 1CHIP Project
 

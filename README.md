@@ -1,3 +1,13 @@
+
+## Project 1: Solar tracker Pad
+<img src="./images/STM32F030_Solar_Pad.jpg" width="720">  
+
+----
+Todo: 1. Indoor Localization System with BLE
+
+----
+
+
 # About 1CHIP Project
 
 ### LOGO
